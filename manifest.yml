@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: todo-iainwhite
+  host: todo-iainwhite
+  disk_quota: 1024M
